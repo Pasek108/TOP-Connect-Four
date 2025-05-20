@@ -57,11 +57,11 @@ Programs:
 
 ## Features
 ### Project requirements
-✅ 2-player command-line Connect Four game  
-✅ Win with 4 in a row (horizontal, vertical, diagonal)  
-✅ 7x6 grid with turn-based piece dropping  
-✅ Prevent invalid moves and detect draw  
-✅ Built using Test-Driven Development with RSpec  
+- ✅ 2-player command-line Connect Four game  
+- ✅ Win with 4 in a row (horizontal, vertical, diagonal)  
+- ✅ 7x6 grid with turn-based piece dropping  
+- ✅ Prevent invalid moves and detect draw  
+- ✅ Built using Test-Driven Development with RSpec  
 
 ### Additions
 - Unicode symbols to enhance visual appearance
