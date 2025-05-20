@@ -70,7 +70,11 @@ Programs:
 ## Setup
 - Download this repository
 - Open folder in terminal
-- Run `ruby ./lib/main.rb`
+- To run the game use `ruby ./lib/main.rb`
+- To run the tests use:
+  - `rspec` - all tests
+  - `ruby ./spec/board_spec.rb` - tests for board class
+  - `ruby ./spec/game_spec.rb` - tests for game class
 
 ## Acknowledgements
 - [Emojipedia - circles unicode symbols](https://emojipedia.org/symbols)
